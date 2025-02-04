@@ -15,9 +15,12 @@ Each script generates spatiotemporal data of ion concentrations and potentials.
 
 4. Scripts Description
 •	Main_single_electrode__CC.m simulates the spatiotemporal distributions of ion concentrations and electrical potentials in a single-electrode EIP system, where the diluate and concentrate concentrations remain fixed throughout the simulation.
+
 •	Main_single_electrode_desalination.m models the desalination process in a single-electrode EIP system, capturing the dynamic changes in ion concentration as desalination progresses.
+
 •	Main_stack_repeating_circuit.m simulates the spatiotemporal distributions of ion concentrations and electrical potentials in a repeating unit of a multi-electrode EIP stack.
+
 •	Main_stack_terminal.m models the spatiotemporal ion and potential distributions in the terminal circuit of a multi-electrode EIP stack, which differs from repeating units due to electrolysis on the terminal electrode.
 
-5. Please contact the authors if you have any questions. (Weifan Liu, Vanderbilt University, weifan.liu@vanderbilt edu)
+6. Please contact the authors if you have any questions. (Weifan Liu, Vanderbilt University, weifan.liu@vanderbilt edu)
 
